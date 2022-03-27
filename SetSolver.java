@@ -18,9 +18,11 @@ public class SetSolver {
 		Card card;
 		ArrayList<Card> board = new ArrayList<Card>();
 			
+		// Loops 12 times for 12 cards
 		for(int i = 1; i <= 12; i++) {
+			// Card code of length 4 has all the attributes
 			while(cardCode.length() != 4) {
-				if(inputMode) {
+				if(inputMode) { 
 					System.out.println("Enter in card #" + i);
 					cardCode = reader.next();
 				} else {
