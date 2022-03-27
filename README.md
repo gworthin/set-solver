@@ -31,4 +31,5 @@ The codes for the three cards in this image would be 1GED, 2PSS, and 3RFO, from 
 
 Cards are "drawn" on in the terminal. The set above would be printed as such (in the appropiate colors):
 
+<img width="224" alt="Screen Shot 2022-03-27 at 6 06 41 PM" src="https://user-images.githubusercontent.com/102486685/160302961-34e23c67-133a-4a02-bee2-2a1a892e24bc.png">
 
