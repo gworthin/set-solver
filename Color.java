@@ -2,7 +2,8 @@ package setSolver;
 
 // Enum color contains the possible color attributes for the card
 public enum Color {
-	RED, GREEN, PURPLE; //Colors
+	// Colors
+	RED, GREEN, PURPLE; 
 	
 	// String codes
 	public String getCode() {
