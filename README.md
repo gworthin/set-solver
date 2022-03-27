@@ -30,7 +30,6 @@ The codes for the three cards in this image would be 1GED, 2PSS, and 3RFO, from 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/8f/Set-game-cards.png)
 
 Cards are "drawn" on in the terminal. The set above would be printed as such (in the appropiate colors):
-
     0      
    0 0     
   0   0    
@@ -38,7 +37,7 @@ Cards are "drawn" on in the terminal. The set above would be printed as such (in
   0   0    
    0 0     
     0    
-
+    
    000        000     
   0   0      0   0    
    00000      00000   
