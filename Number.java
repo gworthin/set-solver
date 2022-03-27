@@ -1,8 +1,11 @@
 package setSolver;
 
+// Enum number contains the possible color attributes for the card
 public enum Number {
+	// Numbers
 	ONE, TWO, THREE;
 	
+	// Returns integer representations
 	public int getInt() {
 		if(this == ONE) {
 			return 1;
@@ -13,6 +16,7 @@ public enum Number {
 		}
 	}
 	
+	// Returns codes
 	public String getCode() {
 		if(this == ONE) {
 			return "1";
