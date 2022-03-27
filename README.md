@@ -29,7 +29,7 @@ The cards are inputted as a **card code**, a 4 letter string representing the nu
 The codes for the three cards in this image would be 1GED, 2PSS, and 3RFO, from left to right
 ![](https://upload.wikimedia.org/wikipedia/commons/8/8f/Set-game-cards.png)
 
-Cards are "drawn" on in the terminal. The set above would be printed as such (in the appropiate colors):
+The program takes in 12 cards as codes and then "draws" the sets in the terminal. If the set above was on the board it would appear as such:
 
 <img width="224" alt="Screen Shot 2022-03-27 at 6 06 41 PM" src="https://user-images.githubusercontent.com/102486685/160302961-34e23c67-133a-4a02-bee2-2a1a892e24bc.png">
 
