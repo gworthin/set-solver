@@ -6,10 +6,12 @@ import java.util.Scanner;
 
 public class SetSolver {
 	
+	// main calls solveBoard with parameter set to true so the user inputs the 12 cards
 	public static void main(String[] args) {
 		solveBoard(true);
 	}
 
+	// solveBoard takes in the 12 cards and draws the possible sets
 	public static int solveBoard(boolean inputMode) {
 		Scanner reader = new Scanner(System.in);
 		String cardCode = "";
