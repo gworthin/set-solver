@@ -33,3 +33,4 @@ The program takes in 12 cards as codes and then "draws" the sets in the terminal
 
 <img width="224" alt="Screen Shot 2022-03-27 at 6 06 41 PM" src="https://user-images.githubusercontent.com/102486685/160302961-34e23c67-133a-4a02-bee2-2a1a892e24bc.png">
 
+Number.java, Color.java, Shading.java, and Shape.java are all enums representing the 4 attributes of a card. The Card.java and Set.java files are classes representing Cards and Sets in the game. SetSolver.java handles user input and finds all sets in the board.
