@@ -4,7 +4,7 @@ Java Program that solves the card game [Set](https://en.wikipedia.org/wiki/Set_(
 
 There are 81 cards in a deck of Set cards, each with 3 possible permutations of 4 attributes. A Set is a group of 3 cards with specific relationships to the others based on their attributes. Read more [here](https://en.wikipedia.org/wiki/Set_(card_game)).
 
-The cards are inputted as a **card code**, a 4 letter string representing the number, color, shading, and shape, respectively. 
+The cards are inputted as a **card code**, a 4 letter string with each character representing the number, color, shading, and shape, respectively. 
 
 **Number**
  - 1 - One
@@ -26,7 +26,11 @@ The cards are inputted as a **card code**, a 4 letter string representing the nu
 - D - Diamond
 - S - Squiggle
 
-The codes for the three cards in this image would be 1GED, 2PSS, and 3RFO, from left to right
+The codes for the three cards in this image would be: 
+- 1GED (1 green empty diamond)
+- 2PSS (2 purple striped squiggles)
+- 3RFO (3 red full ovals)
+
 ![](https://upload.wikimedia.org/wikipedia/commons/8/8f/Set-game-cards.png)
 
 The program takes in 12 cards as codes and then "draws" the sets in the terminal. If the set above was on the board it would appear as such:
