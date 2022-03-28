@@ -26,7 +26,7 @@ The cards are inputted as a **card code**, a 4 letter string with each character
 - D - Diamond
 - S - Squiggle
 
-The codes for the three cards in this image would be: 
+The codes for the three cards in the image below would be: 
 - 1GED (1 green empty diamond)
 - 2PSS (2 purple striped squiggles)
 - 3RFO (3 red full ovals)
